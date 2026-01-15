@@ -1,1 +1,1 @@
-# C-practicals
+all practicals 
